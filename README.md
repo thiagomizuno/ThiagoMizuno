@@ -1,7 +1,7 @@
 # Thiago Mizuno
 
-<div style="display: flex; align-items: center;">
-  <img src="profile_photo.jpg" alt="Thiago Mizuno" style="width: 150px; height: auto; margin-right: 20px;">
+<div style="display: flex; align-items: flex-start;">
+  <img src="profile_photo.jpg" alt="Thiago Mizuno" style="width: 300px; height: auto; margin-right: 20px;">
   <div>
     <h2>About Me</h2>
     <p>
