@@ -10,7 +10,6 @@
     My professional journey began in 2010 when I joined Schlumberger as a junior geologist at SIS. Later that same year, I transitioned to Petrobras, where I currently hold the position of Senior Geologist.
   </p>
   <p>
-    In addition to my professional work, I am pursuing my Ph.D. studies under the guidance of Dr. Clayton Deutsch. My research focuses on reservoir modeling, incorporating trends and the use of secondary variables, reflecting my commitment to advancing my knowledge and expertise in the field.
+    In addition to my professional work, I am pursuing my Ph.D. studies under the guidance of Dr. Clayton Deutsch. My research focuses on reservoir modeling, incorporating trends and the use of secondary variables.
   </p>
-  <p>Feel free to explore my repositories and projects!</p>
 </div>
